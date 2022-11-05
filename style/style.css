@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+}
+.text{
+    background-color: yellow;
+    margin: 0px;
+    padding: 20px 50px 22px 55px;
+}
+.text2{
+    background-color: #ffffff;
+    margin:100px 300px 50px 300px ;
+    padding: 5px 50px;
+}
+.text3{
+    background-color: #12c730;
+    border: 4px solid #000000;
+    margin: 100px 300px 300px 300px; 
+    padding:5px 50px;
+
+}
+.text4{
+    background-color: #88094f;
+    border:4px dashed black;
+    margin: 200px 50px ;
+    padding: 5px 50px;
+}
+
+.erti{
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    background-color: brown;
+    border: 4px solid black;
+
+}
+.ori{
+    width: 400px;
+    height: 200px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    background-color: yellow;
+    border:4px solid black;
+}
